@@ -49,4 +49,4 @@ if __name__ == "__main__":
 		  scan_type = input("Do you want deep scan (y/n)  warning!!! this take longer time and can contain repeated links not advicable: ").upper()
 		  medical_crawler(user_url, scan_type)
 
-		  print("thanks for using this webcrawler. you can fork this repo on this link https://github.com/Nerd-Inc/MedKit/tree/master/src/src_%20data%20extraction")
+		  print("you can fork this repo on this link https://github.com/Nerd-Inc/MedKit/tree/master/src/src_%20data%20extraction")
